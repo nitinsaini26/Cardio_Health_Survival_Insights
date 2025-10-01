@@ -49,5 +49,4 @@ The dataset used for this project is publicly available:
 - Demonstrates the power of **data visualization in healthcare**  
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](./dashboard_preview.png)  
-*(Replace with your actual dashboard image path)*  
+https://github.com/nitinsaini26/Cardio_Health_Survival_Insights/blob/main/Cardio%20%20Health%20Survival%20Insights%20Screen%20Grab.png
